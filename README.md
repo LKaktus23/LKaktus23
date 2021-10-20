@@ -1,5 +1,5 @@
 👋 Hi, I’m @LKaktus23
-Just a software developer who spends his free time with new technologies and frameworks (time permitting).
+Just a software developer who spends his free time with new technologies and frameworks (if there is time).
 
 <!---
 LKaktus23/LKaktus23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
